@@ -1,4 +1,4 @@
-# Linux-to-Windows-with-QEMU
+# Windows-with-QEMU-on-VPS
 
 A Shell Script to Auto install Windows Server on your Linux System. [Right now, it supports 2012 R2 < evaluation/180 days trial > copy]
 
